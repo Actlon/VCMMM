@@ -1,1 +1,1 @@
-("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/Actlon/VCMMM/refs/heads/main/Special.lua","ZoneInfo":("LCZ":("hasblackout":Y,"ignorenuke":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":("13_11":("CUSTOM_fnafmap",0)),"HCZ-EZ":()),"Zones":("LCZ","HCZ-EZ"))
+("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/Actlon/tttttttt/refs/heads/main/fixers.lua","ZoneInfo":("LCZ":("hasblackout":Y,"ignorenuke":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":("14_17":("CUSTOM_Temp",2),"12_12":("CUSTOM_MMMAP",1)),"HCZ-EZ":()),"Zones":("LCZ","HCZ-EZ"))
